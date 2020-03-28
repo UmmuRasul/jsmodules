@@ -15,4 +15,4 @@ function getSessions() {
     })
 }
 
-export { getSessions };
+export { getSessions as default, sessionURL };
