@@ -19,5 +19,3 @@ getSessions()
         data.listItems = sessions;
         render();
     });
-
-}())
